@@ -1,0 +1,27 @@
+3
+09:00 14:00
+10
+08:48 1 client1
+09:41 1 client1
+09:48 1 client2
+09:49 1 client2
+09:52 1 client3
+09:53 1 client4
+09:54 1 client5
+09:55 1 client6
+09:56 1 client7
+10:10 2 client1 1
+10:25 2 client2 2
+10:58 2 client3 3
+11:30 2 client4 3
+11:35 3 client4
+11:45 3 client5
+11:46 3 client6
+11:47 3 client7
+11:48 3 client8
+12:33 4 client1
+12:43 4 client2
+12:44 4 client3
+12:45 4 client4
+12:46 4 client4
+12:46 4 client5
